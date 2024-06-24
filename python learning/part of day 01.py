@@ -1,2 +1,2 @@
-random_float * 45
+"random_float" * 45
 0.8876554 - 0.5544333333
