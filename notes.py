@@ -13,6 +13,14 @@
 '''
 print(len("write anything that you will want to count))
 
+string - str 
+variable - change always
+float - decimal 10.78
+integer - int - negave positive number
+string - str = "write anything that will we a string " 
+
+string always written as same or you will space only
+
 
 
 
