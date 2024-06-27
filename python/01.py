@@ -1,4 +1,4 @@
-#create something greate
+#create something great
 print(""" 
       write a powerful book in the sky
       to create journey of the wave 
