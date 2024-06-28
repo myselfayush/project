@@ -21,7 +21,8 @@ string - str = "write anything that will we a string "
 
 string always written as same or you will space only
 
-
+a = str(105)  - covert integer to 
+print(type(a)) = check data 
 
 
 
