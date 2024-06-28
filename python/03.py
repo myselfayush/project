@@ -1,7 +1,7 @@
-print(len("water in the wave flow through the forest"))
+'''   take input and count it by using lens function
+remember when we use catenation so, make sure there only be string 
 
+ '''
 
-zx = (len(input(("now, we are resting on the surface"))))
-
-xc = str(zx)
-print(xc + " that's your number")
+a = (len(input("what's,your name? ")))
+print("your have = " + str(a) + " number in your written text ")
